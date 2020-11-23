@@ -181,3 +181,5 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
 
 Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+A quirk is a unique, odd, and sometimes charming trait that makes a person stand out from the crowd. Country comedian Minnie Pearl was known for her quirk of wearing a $1.98 price tag dangling from her hat. A quirk can be an adorable little habit, like wearing flowery dresses and big sun bonnets or bow ties every day.
+There are three types of Quirks: Mutant, Emitter, and Transformation Quirks. Mutant Quirks are Quirks that give you unchangeable bodies.
